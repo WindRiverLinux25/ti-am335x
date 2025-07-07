@@ -116,7 +116,7 @@ in a different environment it may possibly have some issues.
 	Processor:		AM335X-GP rev 1.0
 	Board Rev:		TI-AM335X EVM, CPU board REV 1.2A
 	BootLoader:		U-Boot
-	BootLoader Version:	U-Boot 2025.01-g70667128cb5b (Apr 04 2025 - 18:20:14 +0000)
+	BootLoader Version:	U-Boot 2025.01-g1d6ba4a32cdd (May 29 2025 - 19:36:32 +0000)
 
 4.2 BeagleBoneBlack(BBB)
 ========================
@@ -133,7 +133,7 @@ For a full description of BBB, please refer to the following link:
 	Processor:		AM335X-GP rev 2.1
 	Board Rev:		RevC
 	BootLoader:		U-Boot
-	BootLoader Version:	U-Boot 2025.01-g70667128cb5b (Apr 04 2025 - 18:20:14 +0000)
+	BootLoader Version:	U-Boot 2025.01-g1d6ba4a32cdd (May 29 2025 - 19:36:32 +0000)
 
 4.3 Hardware profile settings for AM335X-EVM
 ============================================
