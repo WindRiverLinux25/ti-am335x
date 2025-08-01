@@ -22,8 +22,8 @@ This BSP supports the following boards:
 2. Change History
 =================
 
-  - 2025/09 (LINUXPG-2605):  Wind River Linux 10.25 RCPL01 Standard and Preempt-rt support based on
-			    ti-linux-kernel-11.00.13
+  - 2025/09 (LINUXPG-2605):  Wind River Linux 10.25 RCPL01, Standard and Preempt-rt support based on
+			    TI SDK v6.12 kernel
 
 3. BSP Features
 ===============
